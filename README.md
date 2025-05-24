@@ -43,8 +43,8 @@ A collection of my small to medium-sized front-end projects with mockups, struct
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 📧 Email: sahbam.dev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahba-saadloo/)
+- 📧 Email: sahba.frontend@gmail.com
 
 ---
 
