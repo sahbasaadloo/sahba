@@ -35,11 +35,14 @@ I specialize in building:
 📌 [Projects Repository](https://github.com/sahbasaadloo/projects)  
 A collection of my small to medium-sized front-end projects with mockups, structure explanation, and tools used.
 
-🔹 **Selected Highlights:**  
-🍽️ [Recipe Website – Live Demo](https://poetic-melba-d3545a.netlify.app/) | [Code](https://github.com/sahbasaadloo/frontend-projects)  
-🧮 [Financial Dashboard – Live Demo](https://dainty-lebkuchen-6f6a22.netlify.app/) | [Code](https://github.com/sahbasaadloo/frontend-projects)
-👗  [shopping Dress Site – Live Demo](https://dressshop-sigma.vercel.app/) | [Code](https://github.com/sahbasaadloo/frontend-projects/shop site(bootstrap))
-☕️ [Starbucks – Live Demo](https://thunderous-souffle-20ff54.netlify.app/)|| [Code](https://github.com/sahbasaadloo/frontend-projects)
+| Project                       | Live Demo                                                   | Code                                                                                             |
+| ----------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 🍽️ **Recipe Website**        | [Live Demo](https://poetic-melba-d3545a.netlify.app/)       | [GitHub](https://github.com/sahbasaadloo/frontend-projects)                                      |
+| 🧮 **Financial Dashboard**    | [Live Demo](https://dainty-lebkuchen-6f6a22.netlify.app/)   | [GitHub](https://github.com/sahbasaadloo/frontend-projects)                                      |
+| 👗 **Dress Shop Website**     | [Live Demo](https://dressshop-sigma.vercel.app/)            | [GitHub](https://github.com/sahbasaadloo/frontend-projects/tree/main/shop%20site%28bootstrap%29) |
+| ☕️ **Starbucks Landing Page** | [Live Demo](https://thunderous-souffle-20ff54.netlify.app/) | [GitHub](https://github.com/sahbasaadloo/frontend-projects)                                      |
+| ☁️ **Weather App**            | [Live Demo](https://bespoke-lollipop-40280f.netlify.app/)   | [GitHub](https://github.com/sahbasaadloo/frontend-projects)                                      |
+
 ---
 ##  My Portfoilo
 🎨
