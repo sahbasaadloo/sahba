@@ -36,9 +36,9 @@ I specialize in building:
 A collection of my small to medium-sized front-end projects with mockups, structure explanation, and tools used.
 
 🔹 **Selected Highlights:**  
-🍽️ [Recipe Website – Live Demo](https://your-live-demo-link.com) | [Code](https://github.com/your-username/restaurant-website)  
+🍽️ [Recipe Website – Live Demo](https://poetic-melba-d3545a.netlify.app/) | [Code](https://github.com/sahbasaadloo/frontend-projects)  
 🧮 [Financial Dashboard – Live Demo](https://dainty-lebkuchen-6f6a22.netlify.app/) | [Code](https://github.com/sahbasaadloo/frontend-projects)
-    [shopping Dress Site – Live Demo](https://dressshop-sigma.vercel.app/) | [Code](https://github.com/frontend-projects/)
+👗  [shopping Dress Site – Live Demo](https://dressshop-sigma.vercel.app/) | [Code](https://github.com/sahbasaadloo/frontend-projects)
 ---
 ##  My Portfoilo
 🎨
