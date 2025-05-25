@@ -32,7 +32,7 @@ I specialize in building:
 ## 📁 Projects
 
 🔹 **All My Work In One Place:**  
-📌 [Projects Repository](https://github.com/sahbasaadloo/projects)  
+📌 [Projects Repository](https://github.com/sahbasaadloo/frontend-projects)  
 A collection of my small to medium-sized front-end projects with mockups, structure explanation, and tools used.
 
 | Project                       | Live Demo                                                   | Code                                                                                             |
