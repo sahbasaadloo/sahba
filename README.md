@@ -37,7 +37,7 @@ A collection of my small to medium-sized front-end projects with mockups, struct
 
 🔹 **Selected Highlights:**  
 🍽️ [Recipe Website – Live Demo](https://your-live-demo-link.com) | [Code](https://github.com/your-username/restaurant-website)  
-🧮 [Financial Dashboard – Live Demo](https://your-live-demo-link.com) | [Code](https://github.com/your-username/calculator)
+🧮 [Financial Dashboard – Live Demo](https://dainty-lebkuchen-6f6a22.netlify.app/) | [Code](https://github.com/sahbasaadloo/frontend-projects)
     [shopping Dress Site – Live Demo](https://dressshop-sigma.vercel.app/) | [Code](https://github.com/frontend-projects/)
 ---
 ##  My Portfoilo
