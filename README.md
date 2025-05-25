@@ -1,5 +1,5 @@
 # sahba
-# Hi there, I'm Sahbam 👋
+# Hi there, I'm Sahba 👋
 
 🎯 A passionate **Front-End Developer** who loves turning designs into clean, responsive, and user-friendly websites.  
 💻 Based in Iran, working remotely with clients worldwide.  
